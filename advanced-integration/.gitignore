@@ -1,0 +1,10 @@
+.env.sample
+.idea
+.DS_STORE
+.eslintcache
+*.swp
+*~
+node_modules
+dist
+.cache
+
